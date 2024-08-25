@@ -61,6 +61,7 @@ h6 {
 
 h1 {
      font-size: 24px
+     
 }
 
 h2 {
@@ -340,7 +341,7 @@ ul.email li a {
 
 .poa_t {
      position: absolute;
-     top: 97px;
+     top: 15px;
      left: 0;
      right: 0;
 }
@@ -359,16 +360,16 @@ ul.email li a {
 
 .club h1 {
      color: #fff;
-     font-size: 50px;
+     font-size: 21px;
      line-height: 50px;
      text-transform: uppercase;
      font-weight: bold;
-     padding-bottom: 1px;
+     padding-bottom: -15px;
 }
 
 .club h2 {
      color: #fff;
-     font-size: 25px;
+     font-size: 18px;
      line-height: 50px;
      text-transform: uppercase;
      font-weight: bold;
@@ -866,6 +867,7 @@ ul.social_icon li a:hover {
      position: relative;
      width: 170px;
      height: 170px;
+     margin-left: -5px;
      border-radius: 50%;
      border: #f6960f solid 5px;
 }
